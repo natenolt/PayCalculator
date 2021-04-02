@@ -1,0 +1,10 @@
+C:\Users\new user\Desktop\c#projects\PayCalculator\PayCalculator\PayCalculator\bin\Debug\PayCalculator.exe.config
+C:\Users\new user\Desktop\c#projects\PayCalculator\PayCalculator\PayCalculator\bin\Debug\PayCalculator.exe
+C:\Users\new user\Desktop\c#projects\PayCalculator\PayCalculator\PayCalculator\bin\Debug\PayCalculator.pdb
+C:\Users\new user\Desktop\c#projects\PayCalculator\PayCalculator\PayCalculator\obj\Debug\PayCalculator.csprojAssemblyReference.cache
+C:\Users\new user\Desktop\c#projects\PayCalculator\PayCalculator\PayCalculator\obj\Debug\PayCalculator.Form1.resources
+C:\Users\new user\Desktop\c#projects\PayCalculator\PayCalculator\PayCalculator\obj\Debug\PayCalculator.Properties.Resources.resources
+C:\Users\new user\Desktop\c#projects\PayCalculator\PayCalculator\PayCalculator\obj\Debug\PayCalculator.csproj.GenerateResource.cache
+C:\Users\new user\Desktop\c#projects\PayCalculator\PayCalculator\PayCalculator\obj\Debug\PayCalculator.csproj.CoreCompileInputs.cache
+C:\Users\new user\Desktop\c#projects\PayCalculator\PayCalculator\PayCalculator\obj\Debug\PayCalculator.exe
+C:\Users\new user\Desktop\c#projects\PayCalculator\PayCalculator\PayCalculator\obj\Debug\PayCalculator.pdb
